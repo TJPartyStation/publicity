@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Snack & Snap TJPartyStation</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: black;
+            color: white;
+        }
+
+        header {
+            background-color: #f08c48;
+            padding: 20px;
+            text-align: center;
+        }
+
+        h1 {
+            margin: 0;
+            font-size: 2.5rem;
+            color: black;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+            text-align: center;
+        }
+
+        p {
+            font-size: 1.1rem;
+            line-height: 1.6;
+        }
+
+        footer {
+            background-color: #f08c48;
+            padding: 10px 0;
+            text-align: center;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Snack & Snap TJPartyStation</h1>
+    </header>
+    <div class="container">
+        <h2>Welcome to Snack & Snap TJPartyStation!</h2>
+        <p>We specialize in providing delicious snacks and fun photo experiences for your parties and events. Our services include snack stands offering a wide variety of treats, traditional photo booths, and even 360-degree photo booths to capture every angle of the fun.</p>
+        <p>At Snack & Snap TJPartyStation, we believe in adding vibrancy and excitement to your events. Our neon-themed setup will surely add that extra pop of color and energy to your parties.</p>
+        <p>Contact us today to book our services and make your next event unforgettable!</p>
+    </div>
+    <footer>
+        <p>&copy; 2024 Snack & Snap TJPartyStation. All rights reserved.</p>
+    </footer>
+</body>
+
+</html>
